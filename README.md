@@ -1,3 +1,2 @@
 # quantox
-# quantox
-# quantox
+David Simonovic
